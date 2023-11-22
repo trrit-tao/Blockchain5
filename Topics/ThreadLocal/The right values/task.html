@@ -1,0 +1,13 @@
+<h2>The right values</h2>
+<p></p>
+<p>What values will <code class="language-java">threadLocal1</code> and <code class="language-java">threadLocal2</code> have after this code is executed?</p>
+<pre><code class="language-java">ThreadLocal&lt;Integer&gt; threadLocal1 = ThreadLocal.withInitial(() -&gt; 0);
+ThreadLocal&lt;Integer&gt; threadLocal2 = new ThreadLocal&lt;&gt;();
+
+// set
+threadLocal1.set(1);
+threadLocal2.set(1);
+        
+// remove
+threadLocal1.remove();
+threadLocal2.remove();</code></pre>

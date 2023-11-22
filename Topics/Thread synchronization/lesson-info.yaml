@@ -1,0 +1,19 @@
+content:
+- Theory
+- What is wrong
+- What is incorrect about monitors
+- "Two methods, two statements"
+- Synchronized blocks
+- Method inside the synchronized block
+- Possible outputs
+- Counting number of instances
+- Countdown counter
+- Thread-safe account
+- Where it is possible to write synchronized
+- Thread synchronization in Java
+- Multithreaded counter
+- Threads executing methods
+- Initialize fields only once
+- Synchronize the code
+- Synchronized keyword
+- Methods

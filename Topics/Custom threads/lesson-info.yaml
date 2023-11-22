@@ -1,0 +1,15 @@
+content:
+- Theory
+- Message notifier as a thread
+- Statements
+- Writing a thread for printing numbers
+- Starting threads
+- The difference between start and run
+- Statements about starting threads
+- Multiple threads
+- Starting runnables
+- Numbers filter
+- String processor
+- Possible order of the output strings
+- The order of lines
+- When will a thread start performing a task
